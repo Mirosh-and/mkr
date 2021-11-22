@@ -111,6 +111,8 @@ description: <description>
 * Use css variables
 * Markups must be adaptive and responsive according to design
 
+![Screenshot 2021-11-23 at 00 08 17](https://user-images.githubusercontent.com/10829855/142942965-1964d0ce-0581-4f50-9e86-3a8c59e38b23.png)
+
 ## Test 9:
 
 > Create responsive html markups for mobile, table, desktop use flex methodology.
@@ -121,6 +123,8 @@ description: <description>
 * Use css media queries
 * Use css variables
 * Markups must be adaptive and responsive according to design
+
+![Screenshot 2021-11-23 at 00 08 17](https://user-images.githubusercontent.com/10829855/142942965-1964d0ce-0581-4f50-9e86-3a8c59e38b23.png)
 
 ## Test 10:
 
@@ -133,3 +137,4 @@ description: <description>
 * Use css variables
 * Markups must be adaptive and responsive according to design
 
+![Screenshot 2021-11-23 at 00 08 17](https://user-images.githubusercontent.com/10829855/142942965-1964d0ce-0581-4f50-9e86-3a8c59e38b23.png)
