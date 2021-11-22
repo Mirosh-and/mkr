@@ -20,4 +20,28 @@
 * When user click on button stop you should stop timer
 * When user click reset button you should reset timer
 
+## Test 3:
+> Create simple timer web app
+### Acceptance criteria:
+* You should generate field 5x5.
+* Every cell should contain a number of same colors and sizes.
+* The order of the numbers must be random from 1 to 25 each time
+* When user click on cell you should add number 5 to current value
+
+## Test 4:
+> Create simple timer web app
+> 
+### Acceptance criteria:
+* You should generate field 5x5.
+* Every cell should contain a number of different colors and sizes.
+* The order of the numbers must be random from 1 to 25 each time
+* When user click on cell you should hide current value in the cell
+
+## Test 5:
+> Create sea battle board 
+
+### Acceptance criteria:
+* You should generate sea battle board. It is possible to use any html-tags at will
+* The board should be drawn accordingly. Rows should be numbered from 1 to 10,
+* Columns - in Latin letters A, B, C, D, E, F, G, H..
 
