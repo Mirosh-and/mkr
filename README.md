@@ -70,4 +70,5 @@ description: <description>
 ### Acceptance criteria:
 * You should create a navigation menu
 * When you on the click menu item you should open sub navigation list
+![Screenshot 2021-11-23 at 00 01 31](https://user-images.githubusercontent.com/10829855/142941906-4e6762e2-5c61-4a25-9124-1221a582402c.png)
 
