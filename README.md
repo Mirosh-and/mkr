@@ -30,7 +30,6 @@
 
 ## Test 4:
 > Create simple timer web app
-> 
 ### Acceptance criteria:
 * You should generate field 5x5.
 * Every cell should contain a number of different colors and sizes.
@@ -38,10 +37,37 @@
 * When user click on cell you should hide current value in the cell
 
 ## Test 5:
-> Create sea battle board 
-
+> Create sea battle board
 ### Acceptance criteria:
 * You should generate sea battle board. It is possible to use any html-tags at will
 * The board should be drawn accordingly. Rows should be numbered from 1 to 10,
 * Columns - in Latin letters A, B, C, D, E, F, G, H..
+
+## Test 5:
+> Create a simple button whose change state when users clicks on them.
+### Acceptance criteria:
+* You should create button with event onClick
+* Sequence of statuses: ['start', 'in progress', 'pause', 'disconnect', 'finish']
+* Every status should change color off tax label  
+* When the user achieve the last status you should return to the first status
+
+## Test 6:
+> Create a survey form with validation and submit button.
+### Acceptance criteria:
+* As user I want to see survey form (first name, last name, email, description, and gender with two radio button ) button submit.
+*  When form is valid show message in block with id="demo"
+* All text field must be letters without special characters
+* when field is invalid add red border for input
+```
+first name: <first name>
+last name: <last name>
+email: <email> 
+gender: <gender>
+description: <description>
+```
+## Test 7:
+> Create a simple navigation menu.
+### Acceptance criteria:
+* You should create a navigation menu
+* When you on the click menu item you should open sub navigation list
 
